@@ -1,0 +1,10 @@
+{
+    "home" : "Home",
+    "general" : "General",
+    "business" : "Business",
+    "entertainment" : "Entertainment",
+    "health" : "Health",
+    "sports" : "Sports",
+    "technology" : "Technology",
+    "science" : "Science"
+}
