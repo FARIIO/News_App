@@ -6,5 +6,8 @@
     "health" : "Health",
     "sports" : "Sports",
     "technology" : "Technology",
-    "science" : "Science"
+    "science" : "Science",
+    "language" : "Language",
+    "english" : "English",
+    "arabic" : "Arabic"
 }
