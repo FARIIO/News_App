@@ -6,5 +6,8 @@
     "health" : "الصحة",
     "sports" : "الرياضة",
     "technology" : "التكنولوجيا",
-    "science" : "العلوم"
+    "science" : "العلوم",
+    "language" : "اللغة",
+    "english" : "الإنجليزية",
+    "arabic" : "العربية"
 }

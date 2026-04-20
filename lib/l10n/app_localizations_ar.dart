@@ -31,4 +31,13 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get science => 'العلوم';
+
+  @override
+  String get language => 'اللغة';
+
+  @override
+  String get english => 'الإنجليزية';
+
+  @override
+  String get arabic => 'العربية';
 }
